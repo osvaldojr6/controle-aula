@@ -35,4 +35,4 @@ Abrir o aplicativo por outro endereço ou navegador cria um armazenamento separa
 
 ## Tipografia
 
-Títulos, menus e botões usam fontes sólidas disponíveis no dispositivo (Trebuchet MS, Segoe UI ou Arial), com maior contraste para facilitar a leitura.
+Títulos, menus e botões usam Schoolbell, com estilo de escrita na lousa e traço sólido para facilitar a leitura. A fonte está incorporada ao HTML e é distribuída sob Apache License 2.0; veja `licenses/Schoolbell-LICENSE.txt`.
