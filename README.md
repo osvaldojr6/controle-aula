@@ -32,3 +32,7 @@ Abrir o aplicativo por outro endereço ou navegador cria um armazenamento separa
 ## Estrutura
 
 `index.html` reúne a interface, os estilos e a lógica da aplicação. O GitHub Pages publica o conteúdo da raiz da branch `main` em https://osvaldojr6.github.io/controle-aula/.
+
+## Tipografia
+
+Títulos, menus e botões usam Cabin Sketch, com aparência de giz, incorporada ao arquivo HTML. Fonte do projeto Google Fonts, distribuída sob SIL Open Font License 1.1; veja `licenses/Cabin-Sketch-OFL.txt`.
