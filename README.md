@@ -35,4 +35,4 @@ Abrir o aplicativo por outro endereço ou navegador cria um armazenamento separa
 
 ## Tipografia
 
-O nome da professora, os títulos principais e os menus usam escrita manual branca sobre lousa preta texturizada, com molduras em tom de madeira. A fonte Kalam está incorporada ao HTML, sob SIL Open Font License 1.1; veja `licenses/Kalam-OFL.txt`. Campos, horários e textos de apoio mantêm uma tipografia sólida para leitura.
+O nome da professora, os títulos principais e os menus usam escrita manual branca sobre lousa verde texturizada, com molduras em tom de madeira. A fonte Kalam está incorporada ao HTML, sob SIL Open Font License 1.1; veja `licenses/Kalam-OFL.txt`. Campos, horários e textos de apoio mantêm uma tipografia sólida para leitura.
