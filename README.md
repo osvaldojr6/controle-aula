@@ -4,6 +4,8 @@ Aplicação para organizar aulas particulares infantis de uma hora, sem instala�
 
 ## Como usar
 
+Abra a aplicação em **https://osvaldojr6.github.io/controle-aula/**.
+
 Baixe o repositório e abra `index.html` em um navegador atualizado. Cadastre alunos e responsáveis, adicione horas ao pacote e agende as aulas.
 
 ## Recursos
@@ -25,4 +27,4 @@ Abrir o aplicativo por outro endereço ou navegador cria um armazenamento separa
 
 ## Estrutura
 
-`index.html` reúne a interface, os estilos e a lógica da aplicação e pode ser servido por uma hospedagem estática. A publicação em um endereço web não está configurada neste repositório.
+`index.html` reúne a interface, os estilos e a lógica da aplicação. O GitHub Pages publica o conteúdo da raiz da branch `main` em https://osvaldojr6.github.io/controle-aula/.
