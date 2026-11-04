@@ -1,0 +1,28 @@
+# Controle de aulas · Alessandra Saliba
+
+Aplicação para organizar aulas particulares infantis de uma hora, sem instalação de dependências.
+
+## Como usar
+
+Baixe o repositório e abra `index.html` em um navegador atualizado. Cadastre alunos e responsáveis, adicione horas ao pacote e agende as aulas.
+
+## Recursos
+
+- Agenda semanal com prevenção de sobreposição.
+- Pacotes com horas contratadas, utilizadas, agendadas e disponíveis.
+- Fotos dos alunos e da professora e observações por aula.
+- Contagem regressiva para a próxima aula e cronômetro com pausa e retomada.
+- Avisos cinco minutos antes e no início, mediante ativação. Mantenha a aplicação aberta e o dispositivo ativo; notificações e som dependem do navegador.
+- Botão do WhatsApp com mensagem pronta para o responsável conferir e enviar. Inclui opções de confirmação e cancelamento, com prazo de pelo menos 24 horas de antecedência. Respostas não atualizam a agenda automaticamente.
+- Financeiro por aluno: valor da hora, cobrança de aulas realizadas e faltas com desconto, recebimentos, adiantamentos e saldo. Aulas sem preço são sinalizadas.
+- Exportação e restauração de backup em JSON.
+
+## Armazenamento
+
+Os dados e fotos ficam no armazenamento local do navegador, no dispositivo utilizado. Não há servidor, login ou sincronização entre dispositivos. Exporte backups regularmente. O repositório contém apenas a aplicação, sem cadastros de alunos.
+
+Abrir o aplicativo por outro endereço ou navegador cria um armazenamento separado. Para transferir os cadastros, exporte e restaure um backup.
+
+## Estrutura
+
+`index.html` reúne a interface, os estilos e a lógica da aplicação e pode ser servido por uma hospedagem estática. A publicação em um endereço web não está configurada neste repositório.
