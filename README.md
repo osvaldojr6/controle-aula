@@ -13,6 +13,7 @@ Baixe o repositório e abra `index.html` em um navegador atualizado. Cadastre al
 - Agenda semanal com prevenção de sobreposição.
 - Agendamentos somente a partir do dia atual, com pelo menos 61 minutos de antecedência e início entre 08h e 18h.
 - Bloqueio de datas individuais pela professora. O bloqueio impede novos agendamentos; aulas existentes precisam ser canceladas ou remarcadas separadamente.
+- Bloqueio de períodos em uma data, com horário de início, fim e motivo opcional. Aulas de uma hora que coincidam parcialmente com o período também são impedidas. Os períodos podem ser desbloqueados na agenda.
 - Solicitação de outros horários pelo WhatsApp da professora, configurado no perfil. A solicitação não cria uma reserva.
 - Pacotes com horas contratadas, utilizadas, agendadas e disponíveis.
 - Fotos dos alunos e da professora e observações por aula.
