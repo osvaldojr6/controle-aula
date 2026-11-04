@@ -35,4 +35,4 @@ Abrir o aplicativo por outro endereço ou navegador cria um armazenamento separa
 
 ## Tipografia
 
-O menu lateral usa o fundo claro original, botões pontilhados e a fonte Kalam de 16 px, peso 400, entrelinha 1.4 e espaçamento de .15 px. A fonte Kalam está incorporada ao HTML, sob SIL Open Font License 1.1; veja `licenses/Kalam-OFL.txt`. Campos, horários e textos de apoio mantêm uma tipografia sólida para leitura.
+O menu lateral usa o fundo claro original, botões pontilhados e a fonte original Segoe UI de 15 px. O nome da professora e os títulos mantêm Kalam, incorporada ao HTML sob SIL Open Font License 1.1; veja `licenses/Kalam-OFL.txt`. Campos, horários e textos de apoio mantêm uma tipografia sólida para leitura.
