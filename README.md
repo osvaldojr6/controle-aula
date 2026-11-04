@@ -35,4 +35,4 @@ Abrir o aplicativo por outro endereço ou navegador cria um armazenamento separa
 
 ## Tipografia
 
-Títulos, menus e botões usam Cabin Sketch, com aparência de giz, incorporada ao arquivo HTML. Fonte do projeto Google Fonts, distribuída sob SIL Open Font License 1.1; veja `licenses/Cabin-Sketch-OFL.txt`.
+Títulos, menus e botões usam fontes sólidas disponíveis no dispositivo (Trebuchet MS, Segoe UI ou Arial), com maior contraste para facilitar a leitura.
